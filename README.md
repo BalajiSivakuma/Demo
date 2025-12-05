@@ -6,3 +6,6 @@ Demo for learning git.
 This is a new subheading done from vs code
 
 Currently learning git push
+
+##
+Now i am practicing branching
